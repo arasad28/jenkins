@@ -29,7 +29,7 @@ apt-get install python3
 apt-get install python3-pip
 pip install pytest 
 or
-pip install django --break-system-packages
+pip install pytest --break-system-packages
 ```
 
 build and done.
